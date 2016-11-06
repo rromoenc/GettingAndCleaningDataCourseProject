@@ -1,0 +1,7 @@
+"activityId"	"activity"
+1	"Walking"
+2	"Walking upstairs"
+3	"Walking downstairs"
+4	"Sitting"
+5	"Standing"
+6	"Laying"
